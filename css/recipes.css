@@ -1,0 +1,31 @@
+/* recipes.css */
+
+.titlo, .headers {
+    background-color: pink;
+    margin: auto;
+    border: 3px solid lightcoral;
+    padding: 50px;
+    text-align: center;
+}
+.box {
+    background-color: peachpuff;
+    margin: auto;
+    font-size: 20px;
+}
+.center {
+    border: 3px solid peru;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: auto;
+    width: 50%;
+}
+.headers {
+    padding: 5px;
+}
+p {
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+}
