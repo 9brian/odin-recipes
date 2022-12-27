@@ -1,5 +1,7 @@
 /* recipes.css */
-
+body{
+    font-family:Arial, Helvetica, sans-serif
+  }
 .titlo, .headers {
     background-color: pink;
     margin: auto;
